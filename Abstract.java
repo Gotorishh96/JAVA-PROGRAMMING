@@ -1,4 +1,4 @@
-abstract class Solid {
+ abstract class Solid {
     abstract void Volume();
     double v;
 }
