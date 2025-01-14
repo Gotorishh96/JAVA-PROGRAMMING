@@ -3,7 +3,7 @@ class Emp
     int empno;
     String name;
     Emp(int eno,String nm){
-        empno = eno;
+        empno = eno ;
         name = nm;
     }
      void display(){
