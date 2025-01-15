@@ -1,4 +1,5 @@
 //Age array 
+
 import java.util.Scanner;
 public class Agearray{
     public static void main(String[] args) {
