@@ -30,6 +30,7 @@ class Sphere extends Solid {
         System.out.println("The Volume Of the Sphere= "+ v);
     }
 }
+
 public class Abstract {
     public static void main(String[] args) {
         Solid ss;
