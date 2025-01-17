@@ -3,6 +3,7 @@ class AgeRestrictionException extends Exception {
         super(message);
     }
 }
+
 public class ExceptionAge {
         // Method that checks if age is less than 18
     public static void checkAge(int age) throws AgeRestrictionException {
