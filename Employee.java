@@ -11,7 +11,7 @@ class Emp
         System.out.println("name: "+name);
     }
 } 
-class PrEmp extends Emp{
+class  PrEmp extends Emp{
     double basic;
     double ta;
     double pf;
