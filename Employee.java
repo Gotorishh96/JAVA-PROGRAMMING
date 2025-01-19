@@ -10,7 +10,7 @@
         System.out.println("empno: "+empno);
         System.out.println("name: "+name);
     }
-}
+} 
 class PrEmp extends Emp{
     double basic;
     double ta;
