@@ -6,7 +6,7 @@
         empno = eno ;
         name = nm;
     }
-     void display(){
+     void display() {  
         System.out.println("empno: "+empno);
         System.out.println("name: "+name);
     }
