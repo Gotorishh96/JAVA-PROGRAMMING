@@ -1,4 +1,4 @@
- class Emp
+class Emp
 {
     int empno;
     String name;
