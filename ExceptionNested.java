@@ -1,4 +1,4 @@
-  public class ExceptionNested {
+   public class ExceptionNested {
 
      public static void main(String[] args) {
         try {
