@@ -2,7 +2,7 @@
 
      public static void main(String[] args) {
         try {
-            // Outer try block
+             // Outer try block
             System.out.println("Outer try block starts...");
               int outerResult = 10 / 0;  // This will throw ArithmeticException (divide by zero)
              System.out.println("This won't be printed due to outer exception.");
